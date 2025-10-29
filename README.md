@@ -138,9 +138,6 @@ contract GuessFi {
 
 ---
 
-📜 License
-
-🪪 **MIT License
 ----
 
 THERE ARE ALSO SOME IMPORTANT SCREENSHOTS ATTACHED HERE :
