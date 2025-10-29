@@ -1,4 +1,4 @@
-![GUESSFI Banner](https://share.google/PpybfjC7CHpbysWZE)
+(https://share.google/PpybfjC7CHpbysWZE)
 
 🎮 GUESSFI
 
