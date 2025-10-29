@@ -1,3 +1,5 @@
+![GUESSFI Banner](your-image-link)
+
 🎮 GUESSFI
 
 🔢 A Fun Smart Contract Guessing Game
