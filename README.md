@@ -1,10 +1,63 @@
-1) PROJECT NAME : GUESSFI 
-2) PROJECT PUT GUESSES,smart contract reveals correct numnumbe
-3) easy to use
- 4) Smart code contract link : https://repo.sourcify.dev/11142220/0x0849B1C5D701cFb1a055EeEa051b27DfD7429b2A/
- 5) use this code :
-    
-    // SPDX-LICENSE-IDENTIFIER:MIT
+🎮 GUESSFI
+
+🔢 A Fun Smart Contract Guessing Game
+
+
+---
+
+🧩 Project Overview
+
+GUESSFI is a blockchain-based guessing game built with Solidity.
+Players submit their guesses, and the smart contract reveals the correct number once the game ends.
+
+
+---
+
+🚀 Features
+
+✅ Easy to use
+✅ Fair and transparent results
+✅ Automatically reveals the correct number
+
+
+---
+
+💻 Smart Contract Link
+
+🔗 View Contract on Sourcify
+
+
+---
+
+🧠 Usage Instructions
+
+1. Clone or open the contract in Remix IDE.
+
+
+2. Deploy the contract using any Ethereum test network.
+
+
+3. Call functions to:
+
+Start the game
+
+Submit your guesses
+
+Reveal the secret number
+
+
+
+
+
+---
+
+🧱 Smart Contract Code:https://repo.sourcify.dev/11142220/0x0849B1C5D701cFb1a055EeEa051b27DfD7429b2A/
+
+
+
+USE THIS CODE :
+
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
 contract GuessFi {
@@ -24,6 +77,7 @@ contract GuessFi {
         owner = msg.sender;
     }
 
+    // Owner starts a new game with a secret number
     function startGame(uint256 _secretNumber) external onlyOwner {
         require(!gameActive, "Game already running");
         secretNumber = _secretNumber;
@@ -31,6 +85,7 @@ contract GuessFi {
         emit GameStarted(block.timestamp);
     }
 
+    // Players submit their guess (no duplicates)
     function makeGuess(uint256 _guess) external {
         require(gameActive, "No active game");
         require(!hasGuessed[msg.sender], "You already guessed");
@@ -42,12 +97,14 @@ contract GuessFi {
         emit GuessSubmitted(msg.sender, _guess);
     }
 
+    // Owner reveals and ends game
     function revealAndEndGame() external onlyOwner {
         require(gameActive, "Game not active");
         gameActive = false;
 
         emit GameEnded(secretNumber);
 
+        // Announce winners
         for (uint i = 0; i < players.length; i++) {
             address player = players[i];
             if (guesses[player] == secretNumber) {
@@ -56,6 +113,7 @@ contract GuessFi {
         }
     }
 
+    // List of all players (for winner selection)
     address[] private players;
 
     modifier onlyOwner() {
@@ -63,4 +121,23 @@ contract GuessFi {
         _;
     }
 }
-# GUESSFI<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/149cfee4-1dfb-4fdb-9547-21e1c6e7a788" />
+---
+
+🏆 How It Works
+
+1. The owner starts the game and sets a secret number.
+
+
+2. Players submit guesses using their Ethereum addresses.
+
+
+3. When the game ends, the contract reveals the correct number and announces the winner.
+
+
+
+
+---
+
+📜 License
+
+🪪 **MIT License
