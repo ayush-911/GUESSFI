@@ -137,8 +137,10 @@ contract GuessFi {
 📜 License
 
 🪪 **MIT License
+----
 
 THERE ARE ALSO SOME IMPORTANT SCREENSHOTS ATTACHED HERE :
+----
 
 
 <img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/e736ce05-5e44-463c-83fa-3595db982a06" />
@@ -148,5 +150,6 @@ THERE ARE ALSO SOME IMPORTANT SCREENSHOTS ATTACHED HERE :
 <img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/ccc9b442-9b71-4085-88fa-03d63ebdb7d4" />
 
 <img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/4a2926c1-b1e1-471a-9505-a2fb9f66f9f8" />
----
+----
 THATS THE END OF MY PROJECT.THANKS A LOT FOR GOING THROUGH IT . WISH YOU THE BEST.
+----
