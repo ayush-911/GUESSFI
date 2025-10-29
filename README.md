@@ -24,7 +24,7 @@ Players submit their guesses, and the smart contract reveals the correct number 
 
 💻 Smart Contract Link
 
-🔗 View Contract on Sourcify
+🔗 https://repo.sourcify.dev/11142220/0x0849B1C5D701cFb1a055EeEa051b27DfD7429b2A/
 
 
 ---
@@ -49,14 +49,9 @@ Reveal the secret number
 
 
 ---
-🚀 SOME IMPORTANT CODES USED:
+🚀 THE CODE I HAVE USED:
 ---
 
-🧱 Smart Contract Code:https://repo.sourcify.dev/11142220/0x0849B1C5D701cFb1a055EeEa051b27DfD7429b2A/
-
-
-
-USE THIS CODE :
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
@@ -153,3 +148,5 @@ THERE ARE ALSO SOME IMPORTANT SCREENSHOTS ATTACHED HERE :
 <img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/ccc9b442-9b71-4085-88fa-03d63ebdb7d4" />
 
 <img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/4a2926c1-b1e1-471a-9505-a2fb9f66f9f8" />
+---
+THATS THE END OF MY PROJECT.THANKS A LOT FOR GOING THROUGH IT . WISH YOU THE BEST.
