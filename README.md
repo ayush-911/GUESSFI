@@ -1,5 +1,3 @@
-(https://share.google/PpybfjC7CHpbysWZE)
-
 🎮 GUESSFI
 
 🔢 A Fun Smart Contract Guessing Game
