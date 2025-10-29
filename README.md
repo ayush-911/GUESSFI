@@ -48,7 +48,8 @@ Reveal the secret number
 
 
 
-
+---
+🚀 SOME IMPORTANT CODES USED:
 ---
 
 🧱 Smart Contract Code:https://repo.sourcify.dev/11142220/0x0849B1C5D701cFb1a055EeEa051b27DfD7429b2A/
@@ -141,6 +142,8 @@ contract GuessFi {
 📜 License
 
 🪪 **MIT License
+
+THERE ARE ALSO SOME IMPORTANT SCREENSHOTS ATTACHED HERE :
 
 
 <img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/e736ce05-5e44-463c-83fa-3595db982a06" />
