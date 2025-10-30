@@ -1,4 +1,4 @@
-🎮 GUESSFI
+## 🎮 GUESSFI
 
 🔢 A Fun Smart Contract Guessing Game
 
