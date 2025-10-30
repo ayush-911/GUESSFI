@@ -149,4 +149,4 @@ THERE ARE ALSO SOME IMPORTANT SCREENSHOTS ATTACHED HERE :
 
 <img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/4a2926c1-b1e1-471a-9505-a2fb9f66f9f8" />
 ----
-
+MADE BY AYUSH KUMAR TRIVEDI ❤️
