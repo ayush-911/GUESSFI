@@ -1,4 +1,4 @@
-#### 🎮 GUESSFI
+#####🎮 GUESSFI
 
 🔢 A Fun Smart Contract Guessing Game
 
@@ -9,7 +9,7 @@
 <img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/e736ce05-5e44-463c-83fa-3595db982a06" />
 ---
 
-##🧩 Project Overview
+🧩 Project Overview
 
 GUESSFI is a blockchain-based guessing game built with Solidity.
 Players submit their guesses, and the smart contract reveals the correct number once the game ends.
@@ -17,7 +17,7 @@ Players submit their guesses, and the smart contract reveals the correct number 
 
 ---
 
-###🚀 Features
+🚀 Features
 
 ✅ Easy to use
 ✅ Fair and transparent results
@@ -26,14 +26,14 @@ Players submit their guesses, and the smart contract reveals the correct number 
 
 ---
 
-###💻 Smart Contract Link
+💻 Smart Contract Link
 
 🔗 https://repo.sourcify.dev/11142220/0x0849B1C5D701cFb1a055EeEa051b27DfD7429b2A/
 
 
 ---
 
-###🧠 Usage Instructions
+🧠 Usage Instructions
 
 1. Clone or open the contract in Remix IDE.
 
@@ -53,7 +53,7 @@ Reveal the secret number
 
 
 ---
-####🚀 THE CODE I HAVE USED:
+🚀 THE CODE I HAVE USED:
 ---
 
 
@@ -123,7 +123,7 @@ contract GuessFi {
 }
 ---
 
-####🏆 How It Works
+🏆 How It Works
 
 1. The owner starts the game and sets a secret number.
 
@@ -140,7 +140,7 @@ contract GuessFi {
 
 ----
 
-###THERE ARE ALSO SOME IMPORTANT SCREENSHOTS ATTACHED HERE :
+THERE ARE ALSO SOME IMPORTANT SCREENSHOTS ATTACHED HERE :
 ----
 
 <img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/34a918b7-c19c-4601-a4f2-80ea3bba239a" />
